@@ -3,4 +3,4 @@ layout: home
 title: Welcome to My Academic Website
 ---
 
-This is the default page for my academic website.
+Website currently under construction - please come back later!
